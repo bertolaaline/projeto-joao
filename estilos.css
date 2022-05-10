@@ -3,6 +3,10 @@
 }
 
 .card .card-img-top {
-  max-height: 10rem;
+  /* max-height: 20rem; */
   object-fit: cover;
+}
+
+.table-img {
+  border-radius: 9999px;
 }
